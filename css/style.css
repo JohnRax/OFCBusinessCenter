@@ -21,6 +21,7 @@
 /* ===================================
 1. General
 ==================================== */
+
 .site-heading h3{
     font-size : 40px;
     margin-bottom: 15px;
@@ -2108,8 +2109,8 @@ article img.pull-right, article .align-right{
 
 .clear-marginbot{
 	margin-bottom:0;
-}
 
+}
 .marginbot10{
 	margin-bottom:10px;
 }
@@ -2153,13 +2154,27 @@ article img.pull-right, article .align-right{
 ============================= */
 
 @media (min-width: 979px) and (max-width: 1200px) {
+	.dropdown-menu {
+    display: none !important;
+}
+.open .dropdown-menu {
+    display: block !important;
+}
 	#wrapper.boxed{
 		width:1000px;
 		margin:0 auto;	
 	}
+	
 }
 
 @media (min-width: 768px) and (max-width: 979px) {
+	.dropdown-menu {
+    display: none !important;
+}
+.open .dropdown-menu {
+    display: block !important;
+}
+	
 	#wrapper.boxed{
 		width:784px;
 		margin:0 auto;	
@@ -2198,6 +2213,13 @@ article img.pull-right, article .align-right{
 }
 
 @media (max-width: 767px) {
+.dropdown-menu {
+    display: none !important;
+}
+
+.open .dropdown-menu {
+    display: block !important;
+}
 
   body {
     padding-right: 0;
@@ -2326,6 +2348,13 @@ article img.pull-right, article .align-right{
 }
 
 @media (max-width: 480px) {
+	.dropdown-menu {
+    display: none !important;
+}
+
+.open .dropdown-menu {
+    display: block !important;
+}
 	.bottom-article a.pull-right {
 		float:left;
 		margin-top:20px;
@@ -2363,8 +2392,14 @@ article img.pull-right, article .align-right{
 }
 
 @media (max-width: 360px) {
-
+	.dropdown-menu {
+    display: none !important;
 }
+
+.open .dropdown-menu {
+    display: block !important;
+}
+
 /* ============== options panel for live preview ======================= */		
 			
 #t_options {
@@ -2624,7 +2659,7 @@ a.btn.btn-wide {
 	text-align: center;
 	outline:0;
 }
-
+}
 
 
 /* Theme Styler :: End */
