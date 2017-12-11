@@ -21,6 +21,47 @@
 /* ===================================
 1. General
 ==================================== */
+.site-heading h3{
+    font-size : 40px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.border {
+    background: #d1360e;
+    height: 2px;
+    width: 165px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+}
+/* Blog-CSS */
+.blog-box {
+    padding: 0 0px;
+    transition: .5s;
+    border: 1px solid #e2e2e2;
+    margin-bottom: 30px;
+}
+.blog-box-content h4 a {
+    font-size: 20px;
+    padding: 0px 0 0px;
+    text-transform: uppercase;
+    color:#2b2b2b;
+     text-decoration:none;
+    
+}
+.blog-box-content h4:hover {
+    color:#000;
+     text-decoration:none;
+    
+}
+
+.blog-box-content {
+padding: 0 20px 20px;
+}
+.blog-box-text h4 a {
+    color: #333;
+}
 
 body {
 	font-family:'Open Sans', Arial, sans-serif;
@@ -597,7 +638,7 @@ box-shadow: none;
 }
 
 .main-slider .flex-caption {background:none; -ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4C000000,endColorstr=#4C000000); filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4C000000,endColorstr=#4C000000); zoom: 1;}
-.main-slider .flex-caption { bottom: 35px; background-color: rgba(0, 0, 0, 0.6); color: #fff; margin: 0; padding: 25px 25px 25px 30px; position: absolute; right: 0; width: 295px;}
+.main-slider .flex-caption { bottom: 35px; background-color: rgba(0, 0, 0, 0.6); color: #fff; margin: 0; padding: 25px 25px 25px 30px; position: absolute; right: 0}
 .main-slider .flex-caption h3 {color: #fff; letter-spacing: 1px; margin-bottom: 8px; text-transform: uppercase;}
 .main-slider .flex-caption p {margin: 0 0 15px;}
 
@@ -640,7 +681,7 @@ section.callaction {
 #content {
 	position:relative;
 	background:#fff;
-	padding:60px 0 40px 0;
+	
 }
 
 #content img {
