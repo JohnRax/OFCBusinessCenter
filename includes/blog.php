@@ -20,7 +20,7 @@
 								</div>
 								<div class="blog-box-content">
 									<h4><a href="index.php?source=companyformationservices">COMPANY FORMATION & COMPLIANCE</a></h4>
-									<p>Hong Kong company formation (Incorporation / Shelf Company), Hong Kong business registration; Ongoing compliance in Hong Kong & offshore regions e.g. Annual Return</p><br>
+									<p>Hong Kong company formation (Incorporation / Shelf Company), Hong Kong business registration; Ongoing compliance in Hong Kong & offshore regions</p><br><br>
 									<a href="index.php?source=companyformationservices" class="btn btn-default site-btn">Read More</a>
 								</div>
 							</div>
@@ -32,7 +32,7 @@
 									<i class="fa fa-fax fa-5x"></i>
 								</div>
 								<div class="blog-box-content">
-									<h4><a href="index.php?source=businesscenterservices">BUSINESS CENTRE & VIRTUAL OFFICE</a></h4>
+									<h4><a href="index.php?source=businesscenterservices">BUSINESS CENTRE</a></h4>
 									<p>Appointment of Statutory Company Secretary & Registered Office Address for Hong Kong company; Hong Kong Serviced Office & Virtual Office; sale & lease of office property</p><br><br>
 									<a href="index.php?source=businesscenterservices" class="btn btn-default site-btn">Read More</a>
 								</div>
@@ -46,7 +46,7 @@
 								</div>
 								<div class="blog-box-content">
 									<h4><a href="index.php?source=taxandaccounting">ACCOUNTING & TAX REPRESENTATIVE</a></h4>
-									<p>Hong Kong tax representative; Personal & corporate Hong Kong Tax Return; Accounting & bookkeeping services; Management account, accounting reports, tax planning</p><br><br>
+									<p>Hong Kong tax representative; Personal & corporate Hong Kong Tax Return; Accounting & bookkeeping services; Management account, accounting reports</p><br><br>
 									<a href="index.php?source=taxandaccounting" class="btn btn-default site-btn">Read More</a>
 								</div>
 							</div>

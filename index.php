@@ -100,6 +100,9 @@ include "includes/navigation.php";
         case 'contactus':
              include "pages/contact_us.php";
             break;
+        case 'aboutus':
+             include "pages/about_us.php";
+            break;
         default:
         	include "includes/imageslider.php";
         	include "includes/featured.php";

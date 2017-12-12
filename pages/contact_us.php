@@ -105,7 +105,9 @@
     <hr>
     <div class="col-sm-12" id="parent">
     	<div class="col-sm-6">
-    	<iframe width="100%" height="320px;" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJaY32Qm3KWTkRuOnKfoIVZws&key=AIzaSyAf64FepFyUGZd3WFWhZzisswVx2K37RFY" allowfullscreen></iframe>
+    	
+
+    	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3692.0214576868525!2d114.17383636531822!3d22.27717699936262!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404005b07bca379%3A0xed34b4f8affa3082!2sWan+Chai+Commercial+Centre%2C+194-204+Johnston+Rd%2C+Wan+Chai%2C+Hong+Kong!5e0!3m2!1sen!2sph!4v1513045617408" width="100%" height="320px;" frameborder="0" style="border:0" allowfullscreen></iframe>
     	</div>
 
     	<div class="col-sm-6">
@@ -143,10 +145,10 @@
 					<div class="info">
 						<h3 class="title">MAIL & WEBSITE</h3>
 						<p>
-							<i class="fa fa-envelope" aria-hidden="true"></i> &nbsp gondhiyahardik6610@gmail.com
+							<i class="fa fa-envelope" aria-hidden="true"></i> &nbsp info@ofcbusiness.com
 							<br>
 							<br>
-							<i class="fa fa-globe" aria-hidden="true"></i> &nbsp www.hardikgondhiya.com
+							<i class="fa fa-globe" aria-hidden="true"></i> &nbsp www.ofcbusiness.com
 						</p>
 					
 					</div>
@@ -162,10 +164,10 @@
 					<div class="info">
 						<h3 class="title">CONTACT</h3>
     					<p>
-							<i class="fa fa-mobile" aria-hidden="true"></i> &nbsp (+91)-9624XXXXX
+							<i class="fa fa-mobile" aria-hidden="true"></i> &nbsp (+852) 6767-1630 (Hong Kong)
 							<br>
 							<br>
-							<i class="fa fa-mobile" aria-hidden="true"></i> &nbsp  (+91)-7567065254 
+							<i class="fa fa-mobile" aria-hidden="true"></i> &nbsp  (+86) 14714426940 (China)
 						</p>
 					</div>
 				</div>
@@ -180,12 +182,13 @@
 					<div class="info">
 						<h3 class="title">ADDRESS</h3>
     					<p>
-							 <i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp 15/3 Junction Plot 
-							 "Shree Krishna Krupa", Rajkot - 360001.
+							
+							  <i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp Room 02 , 20 Floor, Wan Chai Commercial Centre, Johnston Road, Wan Chai, Hong Kong.
 						</p>
 					</div>
 				</div>
 				<div class="space"></div>
+
 			</div> 
 		</div>		    
 		<!-- /Boxes de Acoes -->

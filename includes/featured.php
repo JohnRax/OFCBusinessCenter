@@ -43,7 +43,7 @@
 										<div class="icon">
 											<i class="fa fa-flag fa-5x"></i>
 										</div>
-										<h4>PROVEN TRACK RECORD
+										<h4> INTELLECTUAL PROPERTIES
 </h4>
 									</div>
 								</div>
